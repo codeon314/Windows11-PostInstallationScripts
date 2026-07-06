@@ -548,7 +548,7 @@ Configure-NetworkSharing
 $host.UI.RawUI.WindowTitle = "Post Config: Step 6/7"
 
 # Download VMWare Tools, extract zip and then run a silent install. Cleans up all files for downloaded VMWare Tools zip and extracted installation files. 
-Install-VMWareToolsFromUrl -Url "https://storage.mastercodeon.dev/public-storage/VMware-tools-13.1.0-25218885.zip"
+Install-VMWareToolsFromUrl -Url "https://storage.peercord.chat/Peercord%20Release/VMware-tools-13.1.0-25218885.zip"
 
 $host.UI.RawUI.WindowTitle = "Post Config: Step 7/7"
 
